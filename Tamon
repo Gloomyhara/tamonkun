@@ -1,16 +1,16 @@
 {
-  "title": "<Tamon's B-Side>",
-  "description": "<High schooler Utage Kinoshita works part-time as a housekeeper so that she can afford her fangirl obsession with Tamon Fukuhara, her favorite member of boy idol group F/ACE. When work serendipitously sends her to the home of her idol, she discovers that the real Tamon couldn’t be more different from his wild and sexy onstage persona.
-Tamon is an insecure mess in real life, and what’s worse, he’s threatening to quit! Utage refuses to let anyone stand in Tamon’s way - least of all himself. What’s a fangirl to do but roll up her sleeves and support her oshi with everything she’s got?>",
-  "artist": "<Shiwasu Yuki>",
-  "author": "<Shiwasu Yuki>",
-  "cover": "<https://melonbooks.akamaized.net/fromagee/user_data/packages/resize_image.php?image=211000244097.jpg>",
+  "title": "Tamon's B-Side",
+  "description": "High schooler Utage Kinoshita works part-time as a housekeeper so that she can afford her fangirl obsession with Tamon Fukuhara, her favorite member of boy idol group F/ACE. When work serendipitously sends her to the home of her idol, she discovers that the real Tamon couldn’t be more different from his wild and sexy onstage persona.
+Tamon is an insecure mess in real life, and what’s worse, he’s threatening to quit! Utage refuses to let anyone stand in Tamon’s way - least of all himself. What’s a fangirl to do but roll up her sleeves and support her oshi with everything she’s got?",
+  "artist": "Shiwasu Yuki",
+  "author": "Shiwasu Yuki",
+  "cover": "https://melonbooks.akamaized.net/fromagee/user_data/packages/resize_image.php?image=211000244097.jpg",
   "chapters": {
-    "<79>": {
-      "title": "<Switch 79>",
-      "volume": "<16>",
+    "79": {
+      "title": "Switch 79",
+      "volume": "16",
       "groups": {
-        "<Gloomy>": "/proxy/api/imgur/chapter/<GWJzghF>/"
+        "Gloomy": "/proxy/api/imgur/chapter/GWJzghF/"
       },
       "last_updated": "1616368746"
     }
